@@ -1,5 +1,5 @@
 # JAXTemplate
-JAX Template for handin 4 in dWebTek at Aarhus University
+JAX Template for handin 5 in dWebTek at Aarhus University
 
 #Information
 This is the webtek template made to work with IntelliJ IDE
